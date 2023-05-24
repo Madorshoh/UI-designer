@@ -1,0 +1,59 @@
+.about_me{
+    display: flex;
+    margin-top: 100px;
+    /* border: 1px solid red; */
+}
+.about-me-left{
+    width: 40%;
+    margin-bottom: 150px;
+}
+.about-me-box1{
+    margin-bottom: 50px;
+}
+.about-me-box2{
+    display: flex;
+    gap: 20px;
+}
+.about-me-box2 h1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 96px;
+    color: #EEEEEE;
+}
+.box2-me{
+    color: #00ADB5;
+}
+.about-me-box3{
+    width: 85%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: rgba(238, 238, 238, 0.75);
+}
+.about-me-box3 a{
+    color: #fff;
+    font-weight: 600;
+}
+.about-me-box4{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.about-me-right{
+    width: 60%;
+    position: relative;
+}
+.about-me-doodle{
+    margin-top: 110px;
+    position: relative;
+}
+.about-me-group62{
+    position: absolute;
+    top: 300px;
+    left: 150px;
+}
